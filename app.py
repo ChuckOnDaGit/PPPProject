@@ -492,4 +492,3 @@ with tab_analytics:
 # -----------------------------------------------------------------------------
 st.divider()
 st.caption("EcoNotes Project • Group Code: G03D05 • Broad Area: Reduction of Paper Usage & Enhanced Student Ergonomics")
-`
